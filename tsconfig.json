@@ -1,0 +1,8 @@
+{
+    "files": [],
+    "references": [
+        {"path": "Source/DependencyInversion.Grpc.JavaScript"},
+        {"path": "Source/Services.Grpc.JavaScript"},
+        {"path": "Source/Tooling/Plugin"}
+    ]
+}
